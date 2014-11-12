@@ -1,0 +1,45 @@
+Description
+-----------
+
+This package enables you to send desktop notifications in python.
+
+Requirements
+------------
+
+-  Python 3
+-  pip3 for installation
+
+Install
+-------
+
+Using ``setup.py``
+~~~~~~~~~~~~~~~~~~
+
+::
+
+    git clone https://github.com/kindlychung/Toast.git
+    cd Toast
+    python3 setup.py install
+
+
+Using pip:
+~~~~~~~~~~
+
+From github:
+
+::
+
+    pip3 install --upgrade git+https://github.com/kindlychung/Toast.git
+
+or from PyPI:
+
+::
+
+    pip3 install --upgrade Toast
+
+
+
+Usage
+-----
+
+
